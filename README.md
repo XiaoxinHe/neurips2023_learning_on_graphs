@@ -11,6 +11,7 @@
 | Can Language Models Solve Graph Problems in Natural Language? | [here](https://openreview.net/forum?id=UDqHhbqYJV) | Heng Wang, Shangbin Feng, Tianxing He, Zhaoxuan Tan, Xiaochuang Han, Yulia Tsvetkov |
 | Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem | [here](https://openreview.net/forum?id=TQlpqmCeMe) | Tal Amir, Steven Gortler, Ilai Avni, Ravina Ravina, Nadav Dym |
 | AMAG: Additive, Multiplicative and Adaptive Graph Neural Network For Forecasting Neuron Activity | [here](https://openreview.net/forum?id=7ntI4kcoqG) | Jingyuan Li, Leo Scholl, Trung Le, Pavithra Rajeswaran, Amy Orsborn, Eli Shlizerman |
+| HyTrel: Hypergraph-enhanced  Tabular Data Representation Learning | [here](https://openreview.net/forum?id=7vqlzODS28) | Pei Chen, Soumajyoti Sarkar, Leonard Lausen, Balasubramaniam Srinivasan, Sheng Zha, Ruihong Huang, George Karypis |
 | Improving Graph Matching with Positional Reconstruction Encoder-Decoder Network | [here](https://openreview.net/forum?id=28RTu9MOT6) | Yixiao Zhou, Ruiqi Jia, Hongxiang Lin, Hefeng Quan, Yumeng Zhao, Xiaoqing Lyu |
 | Does Graph Distillation See Like Vision Dataset Counterpart? | [here](https://openreview.net/forum?id=VqIWgUVsXc) | Beining Yang, Kai Wang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Hao Tang, Yang You, Jianxin Li |
 | How to Turn Your Knowledge Graph Embeddings into Generative Models | [here](https://openreview.net/forum?id=RSGNGiB1q4) | Lorenzo Loconte, Nicola Di Mauro, Robert Peharz, Antonio Vergari |
@@ -53,9 +54,10 @@
 | (Provable) Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More | [here](https://openreview.net/forum?id=mLe63bAYc7) | Jan Schuchardt, Yan Scholten, Stephan Günnemann |
 | Characterizing Graph Datasets for Node Classification: Homophily-Heterophily Dichotomy and Beyond | [here](https://openreview.net/forum?id=m7PIJWOdlY) | Oleg Platonov, Denis Kuznedelev, Artem Babenko, Liudmila Prokhorenkova |
 | Adversarial Training for Graph Neural Networks: Pitfalls, Solutions, and New Directions | [here](https://openreview.net/forum?id=GPtroppvUM) | Lukas Gosch, Simon Markus Geisler, Daniel Sturm, Bertrand Charpentier, Daniel Zügner, Stephan Günnemann |
-| Graph Clustering with Graph Neural Networks | [here](nan) | Anton Tsitsulin, John Palowitch, Bryan Perozzi, Emmanuel Müller |
+| Graph Clustering with Graph Neural Networks | nan | Anton Tsitsulin, John Palowitch, Bryan Perozzi, Emmanuel Müller |
 | A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning | [here](https://openreview.net/forum?id=ZITOHWeAy7) | Yiyou Sun, Zhenmei Shi, Yixuan Li |
 | LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference | [here](https://openreview.net/forum?id=5loV5tVzsY) | Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding |
+| Learning Rule-Induced Subgraph Representations for Inductive Relation Prediction | [here](https://openreview.net/forum?id=RHDXkRPNQa) | Tianyu Liu, Qitan Lv, Jie Wang, Shuling Yang, Hanzhu Chen |
 | Learning Efficient Surrogate Dynamic Models with Graph Spline Networks | [here](https://openreview.net/forum?id=MGPST5I9DO) | Chuanbo Hua, Federico Berto, Michael Poli, Stefano Massaroli, Jinkyoo Park |
 | Extending the Design Space of Graph Neural Networks by Rethinking Folklore Weisfeiler-Lehman | [here](https://openreview.net/forum?id=UlJcZoawgU) | Jiarui Feng, Lecheng Kong, Hao Liu, Dacheng Tao, Fuhai Li, Muhan Zhang, Yixin Chen |
 | MAG-GNN: Reinforcement Learning Boosted Graph Neural Network | [here](https://openreview.net/forum?id=K4FK7I8Jnl) | Lecheng Kong, Jiarui Feng, Hao Liu, Dacheng Tao, Yixin Chen, Muhan Zhang |
@@ -76,6 +78,7 @@
 | DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization | [here](https://openreview.net/forum?id=JV8Ff0lgVV) | Zhiqing Sun, Yiming Yang |
 | Generalised f-Mean Aggregation for Graph Neural Networks | [here](https://openreview.net/forum?id=JMrIeKjTAe) | Ryan Kortvelesy, Steven D Morad, Amanda Prorok |
 | Towards Label Position Bias in Graph Neural Networks | [here](https://openreview.net/forum?id=IKjOMA8olL) | Haoyu Han, Xiaorui Liu, Feng Shi, MohamadAli Torkamani, Charu Aggarwal, Jiliang Tang |
+| Faster approximate subgraph counts with privacy | [here](https://openreview.net/forum?id=Fqg9vGWy4k) | Dung Nguyen, Mahantesh Halappanavar, Venkatesh Srinivasan, Anil Vullikanti |
 | Does Invariant Graph Learning via Environment Augmentation Learn Invariance? | [here](https://openreview.net/forum?id=EqpR9Vtt13) | Yongqiang Chen, Yatao Bian, Kaiwen Zhou, Binghui Xie, Bo Han, James Cheng |
 | Newton–Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems | [here](https://openreview.net/forum?id=CnvZ7FIyAD) | Lingbing Guo, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen |
 | Outlier-Robust Gromov-Wasserstein for Graph Data | [here](https://openreview.net/forum?id=BKAFLUcpBS) | Lemin Kong, Jiajin Li, Jianheng Tang, Anthony Man-Cho So |
@@ -94,6 +97,7 @@
 | Transfer learning for atomistic simulations using GNNs and kernel mean embeddings | [here](https://openreview.net/forum?id=Enzew8XujO) | John Falk, Luigi Bonati, Pietro Novelli, Michele Parrinello, Massimiliano Pontil |
 | Data-Centric Learning from Unlabeled Graphs with Diffusion Model | [here](https://openreview.net/forum?id=DmakwvCJ7l) | Gang Liu, Eric Inae, Tong Zhao, Jiaxin Xu, Tengfei Luo, Meng Jiang |
 | Zero-One Laws of Graph Neural Networks | [here](https://openreview.net/forum?id=DGmxTUCHYs) | Sam Adam-Day, Iliant, Ismail Ceylan |
+| CAT-Walk: Inductive Hypergraph Learning via Set Walks | [here](https://openreview.net/forum?id=QG4nJBNEar) | Ali Behrouz, Farnoosh Hashemi, Sadaf Sadeghian, Margo Seltzer |
 | Bayesian Optimisation of Functions on Graphs | [here](https://openreview.net/forum?id=UuNd9A6noD) | Xingchen Wan, Pierre Osselin, Henry Kenlay, Binxin Ru, Michael A Osborne, Xiaowen Dong |
 | Affinity-Aware Graph Networks | [here](https://openreview.net/forum?id=qgiG7WZohZ) | Ameya Velingker, Ali Sinop, Ira Ktena, Petar Veličković, Sreenivas Gollapudi |
 | Reversible and irreversible bracket-based dynamics for deep graph neural networks | [here](https://openreview.net/forum?id=4SoTUaTK8N) | Anthony Gruber, Kookjin Lee, Nathaniel Trask |
@@ -183,11 +187,12 @@
 | Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion | [here](https://openreview.net/forum?id=qUlpDjYnsp) | Hyuna Cho, Minjae Jeong, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim |
 | [Re] $\mathcal{G}$-Mixup: Graph Data Augmentation for Graph Classification | [here](https://openreview.net/forum?id=XxUIomN-ndH) | Ermin Omeragic, Vuk Đuranović |
 | Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking | [here](https://openreview.net/forum?id=YdjWXrdOTh) | Juanhui Li, Harry Shomer, Haitao Mao, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin |
-| Sparse Graph Learning from Spatiotemporal Time Series | [here](nan) | Andrea Cini, Daniele Zambon, Cesare Alippi |
+| Sparse Graph Learning from Spatiotemporal Time Series | nan | Andrea Cini, Daniele Zambon, Cesare Alippi |
 | What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding | [here](https://openreview.net/forum?id=LmmjiTwYm0) | Nicolas Keriven, Samuel Vaiter |
+| Sheaf Hypergraph Networks | [here](https://openreview.net/forum?id=NvcVXzJvhX) | Iulia Duta, Giulia Cassarà, Fabrizio Silvestri, Pietro Lió |
 | A graphon-signal analysis of graph neural networks | [here](https://openreview.net/forum?id=J0RD92Tmfc) | Ron Levie |
 | MeGraph: Capturing Long-Range Interactions by Alternating Local and Hierarchical Aggregation on Multi-Scaled Graph Hierarchy | [here](https://openreview.net/forum?id=7p5YWe8GqG) | Honghua Dong, Jiawei Xu, Yu Yang, Rui Zhao, Shiwen Wu, Chun Yuan, Xiu Li, Chris Maddison, Lei Han |
 | Curvature Filtrations for Graph Generative Model Evaluation | [here](https://openreview.net/forum?id=Dt71xKyabn) | Joshua Southern, Jeremy Wayland, Michael Bronstein, Bastian Rieck |
 | Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals | [here](https://openreview.net/forum?id=1M8nDkUU9b) | Tingting Dan, Jiaqi Ding, Ziquan Wei, Shahar Kovalsky, Minjeong Kim, Won Hwa Kim, Guorong Wu |
-| Large sample spectral analysis of graph-based multi-manifold clustering | [here](nan) | Nicolas Garcia Trillos, Pengfei He, Chenghui Li |
-| Network Regression with Graph Laplacians | [here](nan) | Yidong Zhou, Hans-Georg Müller |
+| Large sample spectral analysis of graph-based multi-manifold clustering | nan | Nicolas Garcia Trillos, Pengfei He, Chenghui Li |
+| Network Regression with Graph Laplacians | nan | Yidong Zhou, Hans-Georg Müller |
